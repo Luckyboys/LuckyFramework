@@ -11,6 +11,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.*~
 local.properties
 .classpath
 .settings/
@@ -27,3 +28,4 @@ Desktop.ini
 
 # svn
 .svn/
+.svn/*
